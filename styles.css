@@ -150,7 +150,7 @@ h1 {
 }
 
 .highlight {
-  color: #0b7ab5;
+  color: rgb(105, 181, 11);
   font-weight: 600;
 }
 
@@ -229,7 +229,7 @@ h1 {
 
 .skill i {
   font-size: 2rem;
-  color: #0b7ab5;
+  color: rgb(105, 181, 11);
 }
 
 /* Projects Section */
